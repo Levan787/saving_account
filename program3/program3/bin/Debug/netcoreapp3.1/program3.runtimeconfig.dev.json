@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/koba/.dotnet/store/|arch|/|tfm|",
+      "/Users/koba/.nuget/packages"
+    ]
+  }
+}

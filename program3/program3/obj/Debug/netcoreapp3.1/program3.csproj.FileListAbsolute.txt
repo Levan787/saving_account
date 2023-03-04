@@ -1,0 +1,12 @@
+/Users/koba/Desktop/program3/program3/bin/Debug/netcoreapp3.1/program3.deps.json
+/Users/koba/Desktop/program3/program3/bin/Debug/netcoreapp3.1/program3.runtimeconfig.json
+/Users/koba/Desktop/program3/program3/bin/Debug/netcoreapp3.1/program3.runtimeconfig.dev.json
+/Users/koba/Desktop/program3/program3/bin/Debug/netcoreapp3.1/program3.dll
+/Users/koba/Desktop/program3/program3/bin/Debug/netcoreapp3.1/program3.pdb
+/Users/koba/Desktop/program3/program3/obj/Debug/netcoreapp3.1/program3.csprojAssemblyReference.cache
+/Users/koba/Desktop/program3/program3/obj/Debug/netcoreapp3.1/program3.AssemblyInfoInputs.cache
+/Users/koba/Desktop/program3/program3/obj/Debug/netcoreapp3.1/program3.AssemblyInfo.cs
+/Users/koba/Desktop/program3/program3/obj/Debug/netcoreapp3.1/program3.csproj.CoreCompileInputs.cache
+/Users/koba/Desktop/program3/program3/obj/Debug/netcoreapp3.1/program3.dll
+/Users/koba/Desktop/program3/program3/obj/Debug/netcoreapp3.1/program3.pdb
+/Users/koba/Desktop/program3/program3/obj/Debug/netcoreapp3.1/program3.genruntimeconfig.cache
